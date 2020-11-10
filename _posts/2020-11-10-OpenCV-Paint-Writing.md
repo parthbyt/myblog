@@ -3,8 +3,6 @@ layout: post
 title: Writing OpenCV-Paint repository.
 ---
 
-# Writing OpenCV-Paint repository.
-
 [Project Link](https://github.com/parthbyt/OpenCV-Paint)
 
 [Website Link](https://parthbyt.github.io/OpenCV-Paint/)
