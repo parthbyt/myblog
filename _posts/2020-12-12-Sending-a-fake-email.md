@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to send a Fake Email.
+comments: true
 ---
 
 Here is a tutorial on how to send a fake email.
