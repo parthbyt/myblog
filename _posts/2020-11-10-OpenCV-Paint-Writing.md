@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Writing OpenCV-Paint repository.
+comments: True
 ---
 
 [Project Link](https://github.com/parthbyt/OpenCV-Paint)
