@@ -16,4 +16,4 @@ Gradle is a build service. While working with android, there are a lot of files 
 ## Sources
 [*Android (operating system) – Wikipedia*](https://en.wikipedia.org/wiki/Android_(operating_system))
 
-[*Platform Architecture | Android Developers*](https://developer.android.com/guide/platform)
+<a href="https://developer.android.com/guide/platform"><i>Platform Architecture | Android Developers</i></a>
