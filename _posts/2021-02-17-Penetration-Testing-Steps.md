@@ -24,7 +24,7 @@ Covering tracks refers to erase all the digital signs which proves the attackerâ
 ## Sources
 [Footprinting â€“ Wikipedia](https://en.wikipedia.org/wiki/Footprinting)
 
-[Scanning and Enumeration  | Virginia Cyber Range](https://www.virginiacyberrange.org/scanning-and-enumeration)
+[Virginia Cyber Range](https://www.virginiacyberrange.org/scanning-and-enumeration)
 
 [System Hacking](https://www.w3schools.in/ethical-hacking/system-hacking/)
 
